@@ -4,4 +4,4 @@
 
 2. Comparison of different commercially available coloring algorithms and their performance
 
-![example](/example.jpg)
+![example](/example.png)
